@@ -52,11 +52,9 @@ Merci de lire les fichiers :
 * [CONTRIBUTING.md](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/CONTRIBUTING.md)
 * [CODE_OF_CONDUCT.md](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/CONTRIBUTING.md) 
 
-<<<<<<< HEAD
 ##  Authore
-=======
 ## O.S.
->>>>>>> bb8ccb9dc5caa136d82fe40f12504155f1cfc1ef
+
 
 * **Non spécifié**
 
